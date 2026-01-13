@@ -1,0 +1,8 @@
+{
+    "name": "chaitanya197803/mlm-blog-system",
+    "description": "MLM Blog System Root",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    }
+}
