@@ -9,7 +9,7 @@
     },
     "routes": [
         {
-            "src": "/(css|js|images|favicon.ico)(.*)",
+            "src": "/(build|css|js|images|favicon.ico|manifest.json)(.*)",
             "dest": "/mlm-system-core/public/$1$2"
         },
         {

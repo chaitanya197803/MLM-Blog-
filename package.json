@@ -1,0 +1,7 @@
+{
+    "name": "mlm-blog-root",
+    "private": true,
+    "scripts": {
+        "build": "cd mlm-system-core && npm install && npm run build"
+    }
+}
